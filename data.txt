@@ -4,7 +4,7 @@ passwd=1234;
 
 "parola":"topsekretkey",
 
-password="this is not a password"
+password="this is not a password213213"
 
 dsn := "host=localhost user=postgres password=postgres dbname=bddos-db-dev port=5432 sslmode=disable"
 jwtkey = "changeme"
