@@ -1,0 +1,6 @@
+"DefaultConnection": "Host=localhost;Port=5432;Database=kringloop_db;Username=kringloop_user;Password=postgres;"
+
+"DefaultConnection": "Host=localhost;Port=5432;Database=kringloop_db;Username=kringloop_user;Password=thisisatest;"
+
+"DefaultConnection": "Host=localhost;Port=5432;Database=kringloop_db;Username=kringloop_user;Password=wEbHo0kT3sT;"
+
